@@ -1,0 +1,10 @@
+417c2a84261efdf0a0095f9bef8e7077 *DESCRIPTION
+2a9096049254d1a21492f0ec400fb5cd *NAMESPACE
+434cabaf3f3ccfbe831b5d9e5017882e *R/align_sequences.R
+c1dcfd705238626f27b61f84d92da0be *R/needleman.R
+1c1bbcea76f88a52756c51e5d5c078a8 *R/plot.R
+c1d4d0e61c0c3c7f5b452f692010948f *R/print.R
+104a99d066f1a38135f9cc001b95b45a *man/SeqAlignR.Rd
+8b2db62181bbd99ab2f861c9b34c505b *man/align_sequences.Rd
+17b220e1ec22e2bdec305ca20af19ed8 *man/plot.alignment.Rd
+2776bf904440c6738ccda6c1c9523c3f *man/print.alignment.Rd
